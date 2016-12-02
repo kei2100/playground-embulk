@@ -1,0 +1,5 @@
+in:
+  type: file
+  path_prefix: "/Users/arima-kei/localrepos/local/embulk/example-csv-to-es+kibana/mydata/csv/sample_"
+out:
+  type: stdout
