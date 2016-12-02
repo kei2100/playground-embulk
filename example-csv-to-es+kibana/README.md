@@ -9,8 +9,9 @@ $ docker-compose up
 ```
 $ embulk example ./mydata
 $ embulk guess ./mydata/seed.yml -o config.yml
-$ config.yml
 ```
+
+edit config.yml
 
 ```
 in:
